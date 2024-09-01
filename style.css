@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+h1 {
+    margin-bottom: 20px;
+}
+img {
+    max-width:80% ;
+    max-height: 80%;
+    border-radius: 8px;
+}
+.error {
+    color: red;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
